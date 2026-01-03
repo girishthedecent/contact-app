@@ -174,7 +174,7 @@ contact-app/
 
 Built by **Girish**  
 GitHub: [girishthedecent](https://github.com/girishthedecent)  
-Portfolio / Resume: _(Add link if you have)_
+
 
 ---
 
@@ -184,8 +184,3 @@ A MERN stack project demonstrating API design, frontend-backend workflow, real d
 
 ---
 
-## ✅ Tips Before Submitting
-
-✔ Fill in your **MongoDB Atlas URI** properly  
-✔ Update deployed links if they change  
-✔ Remove any console logs in production
